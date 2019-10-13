@@ -1,0 +1,9 @@
+/home/jugger/work/java_master_web_services/01-SpringBootWithoutAuthentication/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java
+/home/jugger/work/java_master_web_services/01-SpringBootWithoutAuthentication/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoHardcodedService.java
+/home/jugger/work/java_master_web_services/01-SpringBootWithoutAuthentication/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/Todo.java
+/home/jugger/work/java_master_web_services/01-SpringBootWithoutAuthentication/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldController.java
+/home/jugger/work/java_master_web_services/01-SpringBootWithoutAuthentication/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/basic/auth/SpringSecurityConfigurationBasicAuth.java
+/home/jugger/work/java_master_web_services/01-SpringBootWithoutAuthentication/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.java
+/home/jugger/work/java_master_web_services/01-SpringBootWithoutAuthentication/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoResource.java
+/home/jugger/work/java_master_web_services/01-SpringBootWithoutAuthentication/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/basic/auth/BasicAuthenticationController.java
+/home/jugger/work/java_master_web_services/01-SpringBootWithoutAuthentication/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/basic/auth/AuthenticationBean.java
